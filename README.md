@@ -7,7 +7,7 @@
 | API | Papers | Key Required | Rate Limit | Docs |
 |-----|--------|-------------|------------|------|
 | [OpenAlex](https://docs.openalex.org) | 250M+ | No | Polite pool | [Tutorial](https://github.com/spinov001-art/openalex-python-tutorial) |
-| [arXiv API](https://arxiv.org/help/api) | 2M+ | No | 1 req/3s | [Dev.to Guide](https://dev.to/0012303) |
+| [arXiv API](https://arxiv.org/help/api) | 2M+ | No | 1 req/3s | [Guide](https://arxiv.org/help/api) |
 | [Crossref](https://www.crossref.org/documentation/) | 140M+ | No (polite pool) | Generous | [Docs](https://api.crossref.org) |
 | [Semantic Scholar](https://api.semanticscholar.org/) | 200M+ | Free key | 100/5min | [Docs](https://api.semanticscholar.org/api-docs/) |
 | [CORE](https://core.ac.uk/documentation/) | 200M+ | Free key | 150/min | [Docs](https://api.core.ac.uk/docs/v3) |
@@ -90,7 +90,7 @@ print(f"Citations: {resp.json()[0]['count']}")
 - [OpenAlex Python Tutorial](https://github.com/spinov001-art/openalex-python-tutorial) — Full tutorial with code
 - [SQLite Vector Search](https://github.com/spinov001-art/sqlite-vector-search-tutorial) — Build semantic search for papers
 - [Awesome Web Scraping](https://github.com/spinov001-art/awesome-web-scraping-2026) — 130+ scraping tools
-- [All Dev.to Tutorials](https://dev.to/0012303) — 540+ API tutorials
+- [All Projects on GitHub](https://github.com/spinov001-art) — 540+ API tutorials
 
 ## Contributing
 

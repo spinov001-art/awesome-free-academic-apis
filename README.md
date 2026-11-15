@@ -14,6 +14,7 @@
 | [Europe PMC](https://europepmc.org/RestfulWebService) | 40M+ | No | Generous | [Docs](https://europepmc.org/RestfulWebService) |
 | [PubMed](https://www.ncbi.nlm.nih.gov/home/develop/api/) | 35M+ | Free key | 10/s (with key) | [E-utils](https://www.ncbi.nlm.nih.gov/books/NBK25500/) |
 | [DOAJ](https://doaj.org/api/docs) | 9M+ | No | Generous | [Docs](https://doaj.org/api/docs) |
+| [Firecrawl Alexandria](https://alexandria.firecrawl.dev/categories/research) | Research APIs and data index for AI agents | Free key | Free tier | [Docs](https://alexandria.firecrawl.dev/categories/research) |
 
 ## Patents
 
